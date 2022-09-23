@@ -45,7 +45,7 @@ How to use it
 -------
  First unload the tool.
 ```
-git clone https://github.com/boxug/trape.git
+git clone https://github.com/osvaldohdzm/trape.git
 cd trape
 python trape.py -h
 ```
