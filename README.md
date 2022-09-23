@@ -58,6 +58,7 @@ sudo python2 get-pip.py
 sudo python2 -m pip install virtualenv
 sudo virtualenv --python=python2.7 venv2
 sudo python2 -m pip install -r requirements.txt
+sudo python2 trape.py --url http://www.google.com --port 8080 
 ```
 
 Example of execution
