@@ -51,7 +51,11 @@ python trape.py -h
 ```
 If it does not work, try to install all the libraries that are located in the file **requirements.txt**
 ```
-pip install -r requirements.txt
+curl https://bootstrap.pypa.io/pip/2.7/get-pip.py -o get-pip.py
+python2 get-pip.py
+python2 -m pip install virtualenv
+virtualenv --python=python2.7 venv2
+python2 -m pip install -r requirements.txt
 ```
 
 Example of execution
