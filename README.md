@@ -57,6 +57,7 @@ curl https://bootstrap.pypa.io/pip/2.7/get-pip.py -o get-pip.py
 sudo python2 get-pip.py
 sudo python2 -m pip install virtualenv
 sudo virtualenv --python=python2.7 venv2
+source venv2/bin/activate
 sudo python2 -m pip install -r requirements.txt
 sudo python2 trape.py --url http://www.google.com --port 8080 
 ```
