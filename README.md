@@ -45,9 +45,11 @@ How to use it
 -------
  First unload the tool.
 ```
+sudo apt install git
 git clone https://github.com/osvaldohdzm/trape.git
 cd trape
-python trape.py -h
+sudo apt install python2
+python2 trape.py -h
 ```
 If it does not work, try to install all the libraries that are located in the file **requirements.txt**
 ```
