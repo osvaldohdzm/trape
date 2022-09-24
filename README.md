@@ -77,7 +77,7 @@ Here are some simple videos to use:
 **Spanish**: https://www.youtube.com/watch?v=ptyuCQmMKiQ
 
 **English**: https://www.youtube.com/watch?v=FdwyIZhUx3Y
-
+a
 At an international security event in Colombia, called **DragonJAR Security Conference** 2017, a demonstration was made before the launch. You can watch the video here: [https://www.youtube.com/watch?v=vStSEsznxgE](https://www.youtube.com/watch?v=vStSEsznxgE)
 
 Disclaimer
